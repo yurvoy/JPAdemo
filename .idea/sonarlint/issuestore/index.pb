@@ -11,3 +11,7 @@ p
 @src/main/java/be/intecbrussel/opdracht1/messages/GetMessage.java,3/1/31b36de4980ba9af2bd0edd6a1d973742e4cf9dc
 q
 Asrc/main/java/be/intecbrussel/opdracht1/messages/SaveMessage.java,d/5/d5c4986579f6b5da8a2ff23deebc5a47379065fa
+;
+JPAdemo.iml,4/8/484bb0c6f856e842ed012fac94cf5837ede61481
+W
+'target/classes/META-INF/persistence.xml,6/b/6b218a32634615b1febcb25205c6f5e1216f1034
